@@ -14,7 +14,7 @@
 Кроме того, у данного курса есть:
 
 - [Страница в Google Classroom](https://classroom.google.com/c/Njg4NjY5OTUxMjgw?cjc=rfuxeey) - тут сдаются теоретические домашние задания
-- [Записи лекций на Yandex.Disk](https://disk.yandex.ru/d/vGNoBZzWbniomg) - здесь можно найти видеозаписи занятий
+- [Записи лекций на Yandex.Disk](https://disk.yandex.ru/d/fOVDO_n7R7_8-A) - здесь можно найти видеозаписи занятий
 
 ## Рекомендованная литература
 
