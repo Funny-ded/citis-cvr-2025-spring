@@ -13,7 +13,7 @@
 
 Кроме того, у данного курса есть:
 
-- [Страница в Google Classroom]() - тут сдаются теоретические домашние задания (временно неактивна)
+- [Страница в Google Classroom](https://classroom.google.com/c/Njg4NjY5OTUxMjgw?cjc=rfuxeey) - тут сдаются теоретические домашние задания
 - [Записи лекций на Yandex.Disk](https://disk.yandex.ru/d/vGNoBZzWbniomg) - здесь можно найти видеозаписи занятий
 
 ## Рекомендованная литература
