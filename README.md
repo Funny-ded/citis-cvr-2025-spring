@@ -29,4 +29,4 @@
 | Тема занятия | Дата занятия | Запись занятия | Материалы | Домашнее задание |  Дедлайн  |
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Введение в компьютерное зрение. Важность восприятия в робототехнике. Детекция объектов. Цветовые пространства. Морфология. | 06.02.2025 | [lecture](https://disk.yandex.ru/i/1pQJ-bn4C5hkug) | [presentation](/lectures/01_introduction/lec_introduction.pdf) </br> [starkit](/lectures/01_introduction/lec_starkit.pdf) </br> [code](/lectures/01_introduction/sem_introduction.ipynb) | - | - |
-| Фильтрация изображения по цвету. Основные морфологические операции. Анализ связных компонент. Простейшие методы детекции объектов. | 13.02.2025 | [lecture](https://disk.yandex.ru/i/UNQGiP5SJIaryg) | [code](/citis-cvr-2025-spring/lectures/02_mask_processing/sem_mask_processing.ipynb) | - | - |
+| Фильтрация изображения по цвету. Основные морфологические операции. Анализ связных компонент. Простейшие методы детекции объектов. | 13.02.2025 | [lecture](https://disk.yandex.ru/i/UNQGiP5SJIaryg) | [code](/lectures/02_mask_processing/sem_mask_processing.ipynb) | - | - |
