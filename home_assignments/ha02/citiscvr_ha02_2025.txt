@@ -1,0 +1,5 @@
+Домашка:
+
+1. С помощью вычитания фона сделать подсчет числа людей, которые проходят через дверь
+2. С помощью Seamless Cloning (https://learnopencv.com/seamless-cloning-using-opencv-python-cpp/) 
+вставить себя на фотографию/видео
